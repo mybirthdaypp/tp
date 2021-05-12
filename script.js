@@ -1,6 +1,6 @@
 var a=prompt("Enter UserName");
  var b=prompt("Enter password");
-  	if(a== "Eman Sabir" && b=="27-06-1996")
+  	if(a== "Pramod" && b=="29-06-2000")
   	{
   	    window.location.href="start.html";
   	}
